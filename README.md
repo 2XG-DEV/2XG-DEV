@@ -33,7 +33,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=2xg-dev&show_icons=true&locale=en" alt="2xg-dev" /></p>
 
-# Streak
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2xg-dev&" alt="2xg-dev" /></p>
-
