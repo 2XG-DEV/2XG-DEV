@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact **posted my first mobile video game at 16 years old**
 
+- 🤓 HackerRank Certifications **CSS , JavaScript , React**
+
 
 # Links
 
