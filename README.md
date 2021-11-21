@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Radu Tarean</h1>
-<h3 align="center">A passionate Full Stack Developer / 3D Artist from Romania</h3>
+<h3 align="center">A passionate entry level Full Stack Developer / mid level 3D Artist from Romania</h3>
 
 # Intro
 
