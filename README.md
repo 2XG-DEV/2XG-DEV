@@ -1,18 +1,5 @@
 <h1 align="center">Hi 👋, I'm Radu Tarean</h1>
-<h3 align="center">A passionate entry level Full Stack Developer / mid level 3D Artist from Romania</h3>
-
-# Intro
-
-- 🌱 I’m currently learning **React.js / Node**
-
-- 💬 Ask me about **HTML , CSS/SCSS , JS , 3D Design**
-
-- 📫 How to reach me **radutarean@gmail.com**
-
-- ⚡ Fun fact **posted my first mobile video game at 16 years old**
-
-- 🤓 HackerRank Certifications **CSS , JavaScript , React**
-
+<h3 align="center">A passionate Lead Full Stack Developer</h3>
 
 # Links
 
